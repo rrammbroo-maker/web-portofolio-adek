@@ -1,0 +1,1 @@
+Simpan profile.jpg dan foto piagam JPG/PNG di folder ini. Nama file piagam harus sama dengan yang ditulis pada script.js.
